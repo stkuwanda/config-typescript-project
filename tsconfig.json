@@ -109,7 +109,4 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
   "exclude": ["node_modules"], // default only if "exclude" is not set
-  "include": ["app.ts", "analytics.ts"],  // only .ts and folders in this list will be watched and transpiled
-  "files": ["app.ts", "analytics.ts"], // only .ts in this list will be watched and transpiled
-
 }
